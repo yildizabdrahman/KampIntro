@@ -37,7 +37,9 @@ namespace classIntro
             {
                 Console.WriteLine(kurs.KursAdi+": "+kurs.Egitmen+" izlenme: "+kurs.İzlenmeOrani);
             }
+
         }
+
     }
     class Kurs
     {
