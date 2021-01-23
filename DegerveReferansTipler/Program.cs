@@ -29,7 +29,7 @@ namespace DegerveReferansTipler
             employee.FirstName = "Baran";
 
             PersonManager personManager = new PersonManager();
-            personManager.Add(person);
+            personManager.Add(employee);
 
         }
     }
